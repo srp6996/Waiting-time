@@ -14,7 +14,9 @@ from twilio.rest import Client
 from tkinter import *
 import os
 import time
-import Authen
+#import Authen
+account_sid=('*****************************')
+auth_token=(***************************)
 
 client = Client(Authen.account_sid, Authen.auth_token)
 
