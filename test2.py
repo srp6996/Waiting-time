@@ -1,12 +1,11 @@
 '''
 Application Created for predicting the waitng time in the bank
 using Queuing Theory 
-It is Prototype 
-Queueing theory is the mathematical study of waiting lines, or queues.
- A queueing model is constructed so that queue lengths and waiting time can be predicted.
- Queueing theory is generally considered a branch of operations research
- because the results are often used when making business decisions about the resources needed to provide a service.
-
+ 
+Created on 27/02/2018
+Ramesh Ravindran
+This is Prototype Project Code 
+In Future I will give code for developing in Pi Module and Controller
  
 '''
 
